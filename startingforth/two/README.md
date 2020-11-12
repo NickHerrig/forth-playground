@@ -1,6 +1,6 @@
 # Chapter two - How to Get Results
 
-# Forth Words
+# Forth Words (Glossary)
 
 | Word    | Stack Effects            | Description                                   |
 | --------| -------------------------| --------------------------------------------- |
