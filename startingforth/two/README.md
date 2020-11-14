@@ -19,9 +19,3 @@
 | `2dup`  | ( d -- d d )             | duplicates the top stack item                 | 
 | `2over` | ( d1 d2 -- d1 d2 d1 )    | copies secodd item add pushes it od top       | 
 | `2drop` | ( d -- )                 | discards first stack item                     | 
-
-# Terminology
-| Word                  | Definition                                                           |
-| -----------------     | -------------------------------------------------------------------- |
-| Double-length numbers |  integers which encompase a range of ~ -2B to 2B                     |
-| Single-length numbers |  integers which fall within -32768 to 32767                          |

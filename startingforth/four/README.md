@@ -16,4 +16,4 @@
 | `or`                       | ( n1 n2 -- or )           | returns logical or                            |
 | `?dup`                     | ( n -- nn ) or ( 0 -- 0 ) | duplicates if n is non-zero                   |
 | `abort" xxx "`             | ( f -- )                  | if true, types last word interpreted, and msg |
-| `?stack`                   | ( -- f )                  |  returns true if stack underflow happens      |
+| `?stack`                   | ( -- f )                  | returns true if stack underflow happens       |
